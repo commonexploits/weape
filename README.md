@@ -1,7 +1,7 @@
 wEAPe
 =====
 
-Weape-Wireless-EAP-Extractor SCript
+Weape-Wireless-EAP-Extractor Script
 
 ============================================
 
